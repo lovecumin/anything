@@ -1,0 +1,34 @@
+﻿  源.cpp
+C:\Users\11239\Desktop\learning_c++\15.41类和对象_计算机组成\源.cpp(261): error C2259: “IntelCPU”: 无法实例化抽象类
+C:\Users\11239\Desktop\learning_c++\15.41类和对象_计算机组成\源.cpp(206): message : 参见“IntelCPU”的声明
+C:\Users\11239\Desktop\learning_c++\15.41类和对象_计算机组成\源.cpp(261): message : 由于下列成员:
+C:\Users\11239\Desktop\learning_c++\15.41类和对象_计算机组成\源.cpp(261): message : “void CPU::Calculator(void)”: 是抽象的
+C:\Users\11239\Desktop\learning_c++\15.41类和对象_计算机组成\源.cpp(147): message : 参见“CPU::Calculator”的声明
+C:\Users\11239\Desktop\learning_c++\15.41类和对象_计算机组成\源.cpp(261,15): error C2259: “IntelCPU”: 无法实例化抽象类
+C:\Users\11239\Desktop\learning_c++\15.41类和对象_计算机组成\源.cpp(206): message : 参见“IntelCPU”的声明
+C:\Users\11239\Desktop\learning_c++\15.41类和对象_计算机组成\源.cpp(261,15): message : 由于下列成员:
+C:\Users\11239\Desktop\learning_c++\15.41类和对象_计算机组成\源.cpp(261,15): message : “void CPU::Calculator(void)”: 是抽象的
+C:\Users\11239\Desktop\learning_c++\15.41类和对象_计算机组成\源.cpp(147): message : 参见“CPU::Calculator”的声明
+C:\Users\11239\Desktop\learning_c++\15.41类和对象_计算机组成\源.cpp(262): error C2259: “Intelvideocard”: 无法实例化抽象类
+C:\Users\11239\Desktop\learning_c++\15.41类和对象_计算机组成\源.cpp(214): message : 参见“Intelvideocard”的声明
+C:\Users\11239\Desktop\learning_c++\15.41类和对象_计算机组成\源.cpp(262): message : 由于下列成员:
+C:\Users\11239\Desktop\learning_c++\15.41类和对象_计算机组成\源.cpp(262): message : “void Videocard::Display(void)”: 是抽象的
+C:\Users\11239\Desktop\learning_c++\15.41类和对象_计算机组成\源.cpp(152): message : 参见“Videocard::Display”的声明
+C:\Users\11239\Desktop\learning_c++\15.41类和对象_计算机组成\源.cpp(262,23): error C2259: “Intelvideocard”: 无法实例化抽象类
+C:\Users\11239\Desktop\learning_c++\15.41类和对象_计算机组成\源.cpp(214): message : 参见“Intelvideocard”的声明
+C:\Users\11239\Desktop\learning_c++\15.41类和对象_计算机组成\源.cpp(262,23): message : 由于下列成员:
+C:\Users\11239\Desktop\learning_c++\15.41类和对象_计算机组成\源.cpp(262,23): message : “void Videocard::Display(void)”: 是抽象的
+C:\Users\11239\Desktop\learning_c++\15.41类和对象_计算机组成\源.cpp(152): message : 参见“Videocard::Display”的声明
+C:\Users\11239\Desktop\learning_c++\15.41类和对象_计算机组成\源.cpp(270): error C2259: “Lenovomemory”: 无法实例化抽象类
+C:\Users\11239\Desktop\learning_c++\15.41类和对象_计算机组成\源.cpp(247): message : 参见“Lenovomemory”的声明
+C:\Users\11239\Desktop\learning_c++\15.41类和对象_计算机组成\源.cpp(270): message : 由于下列成员:
+C:\Users\11239\Desktop\learning_c++\15.41类和对象_计算机组成\源.cpp(270): message : “void MemoryBank::Storage(void)”: 是抽象的
+C:\Users\11239\Desktop\learning_c++\15.41类和对象_计算机组成\源.cpp(157): message : 参见“MemoryBank::Storage”的声明
+C:\Users\11239\Desktop\learning_c++\15.41类和对象_计算机组成\源.cpp(270,38): error C2259: “Lenovomemory”: 无法实例化抽象类
+C:\Users\11239\Desktop\learning_c++\15.41类和对象_计算机组成\源.cpp(247): message : 参见“Lenovomemory”的声明
+C:\Users\11239\Desktop\learning_c++\15.41类和对象_计算机组成\源.cpp(270,38): message : 由于下列成员:
+C:\Users\11239\Desktop\learning_c++\15.41类和对象_计算机组成\源.cpp(270,38): message : “void MemoryBank::Storage(void)”: 是抽象的
+C:\Users\11239\Desktop\learning_c++\15.41类和对象_计算机组成\源.cpp(157): message : 参见“MemoryBank::Storage”的声明
+C:\Users\11239\Desktop\learning_c++\15.41类和对象_计算机组成\源.cpp(270,89): error C2664: “Computer::Computer(CPU *,Videocard *,MemoryBank *)”: 无法将参数 1 从“Lenovomemory *”转换为“CPU *”
+C:\Users\11239\Desktop\learning_c++\15.41类和对象_计算机组成\源.cpp(270,38): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Users\11239\Desktop\learning_c++\15.41类和对象_计算机组成\源.cpp(164,2): message : 参见“Computer::Computer”的声明

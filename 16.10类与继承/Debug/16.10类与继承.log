@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\Users\11239\Desktop\learning_c++\16.10类与继承\源.cpp(19,6): warning C4101: “s1”: 未引用的局部变量
+  16.10类与继承.vcxproj -> C:\Users\11239\Desktop\learning_c++\16.10类与继承\Debug\16.10类与继承.exe

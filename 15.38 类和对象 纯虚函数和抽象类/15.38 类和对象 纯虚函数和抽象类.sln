@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15.38 类和对象 纯虚函数和抽象类", "15.38 类和对象 纯虚函数和抽象类.vcxproj", "{3628EC2E-755B-4EAC-81C0-76A409EAAA59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3628EC2E-755B-4EAC-81C0-76A409EAAA59}.Debug|x64.ActiveCfg = Debug|x64
+		{3628EC2E-755B-4EAC-81C0-76A409EAAA59}.Debug|x64.Build.0 = Debug|x64
+		{3628EC2E-755B-4EAC-81C0-76A409EAAA59}.Debug|x86.ActiveCfg = Debug|Win32
+		{3628EC2E-755B-4EAC-81C0-76A409EAAA59}.Debug|x86.Build.0 = Debug|Win32
+		{3628EC2E-755B-4EAC-81C0-76A409EAAA59}.Release|x64.ActiveCfg = Release|x64
+		{3628EC2E-755B-4EAC-81C0-76A409EAAA59}.Release|x64.Build.0 = Release|x64
+		{3628EC2E-755B-4EAC-81C0-76A409EAAA59}.Release|x86.ActiveCfg = Release|Win32
+		{3628EC2E-755B-4EAC-81C0-76A409EAAA59}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55C37694-4FF6-47BD-BA17-0C966022249A}
+	EndGlobalSection
+EndGlobal

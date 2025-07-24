@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "22.4list容器的插入和删除", "22.4list容器的插入和删除.vcxproj", "{5DFA92D6-4AC5-4A75-B0C4-ECF0A10150E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DFA92D6-4AC5-4A75-B0C4-ECF0A10150E0}.Debug|x64.ActiveCfg = Debug|x64
+		{5DFA92D6-4AC5-4A75-B0C4-ECF0A10150E0}.Debug|x64.Build.0 = Debug|x64
+		{5DFA92D6-4AC5-4A75-B0C4-ECF0A10150E0}.Debug|x86.ActiveCfg = Debug|Win32
+		{5DFA92D6-4AC5-4A75-B0C4-ECF0A10150E0}.Debug|x86.Build.0 = Debug|Win32
+		{5DFA92D6-4AC5-4A75-B0C4-ECF0A10150E0}.Release|x64.ActiveCfg = Release|x64
+		{5DFA92D6-4AC5-4A75-B0C4-ECF0A10150E0}.Release|x64.Build.0 = Release|x64
+		{5DFA92D6-4AC5-4A75-B0C4-ECF0A10150E0}.Release|x86.ActiveCfg = Release|Win32
+		{5DFA92D6-4AC5-4A75-B0C4-ECF0A10150E0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {800BD5E7-3893-4625-8AA1-7FCFC0C647F2}
+	EndGlobalSection
+EndGlobal

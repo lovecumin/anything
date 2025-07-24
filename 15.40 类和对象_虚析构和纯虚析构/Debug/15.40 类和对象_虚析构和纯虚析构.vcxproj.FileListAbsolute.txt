@@ -1,0 +1,1 @@
+C:\Users\11239\Desktop\learning_c++\15.40 类和对象_虚析构和纯虚析构\Debug\15.40 类和对象_虚析构和纯虚析构.exe

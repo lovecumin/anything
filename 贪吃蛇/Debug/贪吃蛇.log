@@ -1,0 +1,30 @@
+﻿  test.cpp
+C:\Users\11239\Desktop\learning_c++\贪吃蛇\test.cpp(420,9): warning C4101: “j”: 未引用的局部变量
+D:\C语言\1\VC\Tools\MSVC\14.29.30133\include\xstring(509,64): error C2589: “常数”:“::”右边的非法标记
+D:\C语言\1\VC\Tools\MSVC\14.29.30133\include\xiosbase(38,32): error C2059: 语法错误:“常数”
+D:\C语言\1\VC\Tools\MSVC\14.29.30133\include\xiosbase(92): message : 查看对正在编译的 类 模板 实例化“std::_Iosb<_Dummy>”的引用
+D:\C语言\1\VC\Tools\MSVC\14.29.30133\include\xiosbase(38,1): error C2238: 意外的标记位于“;”之前
+D:\C语言\1\VC\Tools\MSVC\14.29.30133\include\xiosbase(39,32): error C2059: 语法错误:“常数”
+D:\C语言\1\VC\Tools\MSVC\14.29.30133\include\xiosbase(39,1): error C2238: 意外的标记位于“;”之前
+D:\C语言\1\VC\Tools\MSVC\14.29.30133\include\xiosbase(107,56): error C2589: “常数”:“::”右边的非法标记
+D:\C语言\1\VC\Tools\MSVC\14.29.30133\include\xiosbase(107): error C2062: 意外的类型“unknown-type”
+D:\C语言\1\VC\Tools\MSVC\14.29.30133\include\xiosbase(109,56): error C2589: “常数”:“::”右边的非法标记
+D:\C语言\1\VC\Tools\MSVC\14.29.30133\include\xiosbase(109): error C2062: 意外的类型“unknown-type”
+D:\C语言\1\VC\Tools\MSVC\14.29.30133\include\xlocnum(1273,73): error C2589: “常数”:“::”右边的非法标记
+D:\C语言\1\VC\Tools\MSVC\14.29.30133\include\xlocnum(1594): message : 查看对正在编译的 类 模板 实例化“std::num_put<_Elem,_OutIt>”的引用
+D:\C语言\1\VC\Tools\MSVC\14.29.30133\include\xlocnum(1477,39): error C2589: “常数”:“::”右边的非法标记
+D:\C语言\1\VC\Tools\MSVC\14.29.30133\include\xlocnum(1561,39): error C2589: “常数”:“::”右边的非法标记
+D:\C语言\1\VC\Tools\MSVC\14.29.30133\include\ios(219,37): error C2059: 语法错误:“常数”
+D:\C语言\1\VC\Tools\MSVC\14.29.30133\include\ios(219,62): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\C语言\1\VC\Tools\MSVC\14.29.30133\include\ios(219,62): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\C语言\1\VC\Tools\MSVC\14.29.30133\include\ios(264,37): error C2059: 语法错误:“常数”
+D:\C语言\1\VC\Tools\MSVC\14.29.30133\include\ios(264,63): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\C语言\1\VC\Tools\MSVC\14.29.30133\include\ios(264,63): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\C语言\1\VC\Tools\MSVC\14.29.30133\include\ostream(661,66): error C2589: “常数”:“::”右边的非法标记
+D:\C语言\1\VC\Tools\MSVC\14.29.30133\include\ostream(703,66): error C2589: “常数”:“::”右边的非法标记
+D:\C语言\1\VC\Tools\MSVC\14.29.30133\include\ostream(744,66): error C2589: “常数”:“::”右边的非法标记
+D:\C语言\1\VC\Tools\MSVC\14.29.30133\include\ostream(787,66): error C2589: “常数”:“::”右边的非法标记
+D:\C语言\1\VC\Tools\MSVC\14.29.30133\include\ostream(825,66): error C2589: “常数”:“::”右边的非法标记
+D:\C语言\1\VC\Tools\MSVC\14.29.30133\include\ostream(866,66): error C2589: “常数”:“::”右边的非法标记
+C:\Users\11239\Desktop\learning_c++\贪吃蛇\test.cpp(565,5): error C2084: 函数“int main(void)”已有主体
+C:\Users\11239\Desktop\learning_c++\贪吃蛇\test.cpp(471): message : 参见“main”的前一个定义
