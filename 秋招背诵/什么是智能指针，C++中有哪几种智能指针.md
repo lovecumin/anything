@@ -106,8 +106,8 @@ Animal Cat destroyed.
 
 ## 知识拓展
   - 智能指针图解
-![image](https://file1.kamacoder.com/i/bagu/1.png)
-  - 
+  ![image](https://file1.kamacoder.com/i/bagu/202507061.png)
+
   - 什么是RAII机制？
 RAII 全称： 
     Resource Acquisition Is Initialization（资源获取即初始化）

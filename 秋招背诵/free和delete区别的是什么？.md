@@ -77,7 +77,7 @@ int main() {
 
 - 图解
 
-  ![image](https://file1.kamacoder.com/i/bagu/c++8.png)
+  ![image](https://file1.kamacoder.com/i/bagu/202507091.png)
 
 
 - 面试官可能追问

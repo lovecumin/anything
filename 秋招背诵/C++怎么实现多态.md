@@ -65,7 +65,7 @@ int main() {
 #### 知识拓展
 
 - 知识图解
-![image](https://file1.kamacoder.com/i/bagu/1.png)
+![image](https://file1.kamacoder.com/i/bagu/202507141.png)
 
 多态调用过程示例：
 

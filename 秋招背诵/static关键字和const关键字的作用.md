@@ -101,6 +101,8 @@ const int* const p3 = &a;  // 指针和内容都不可变
 - **口诀** 看 const 位置，谁在 * 的左边谁只读，谁在右边谁固定
 ## 知识图解拓展
 - const关键字和static关键字的示意图
-                                                 ![image](https://file1.kamacoder.com/i/bagu/111.jpg)
-                                           ![image](https://file1.kamacoder.com/i/bagu/222.jpg)
-- ![image](https://file1.kamacoder.com/i/bagu/333.jpg)
+                                                                                                                                          ![image](https://file1.kamacoder.com/i/bagu/202507041.jpg)
+                                                                                        
+                                                                                        ![image](https://file1.kamacoder.com/i/bagu/202507042.jpg)
+
+​                                                      ![image](https://file1.kamacoder.com/i/bagu/202507043.jpg)   

@@ -94,7 +94,7 @@ int main() {
 
 - 知识图解
 
-![image](https://file1.kamacoder.com/i/bagu/1.png)
+![image](https://file1.kamacoder.com/i/bagu/202507121.png)
 
 - 面试官可能追问
 

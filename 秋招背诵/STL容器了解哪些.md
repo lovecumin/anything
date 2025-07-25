@@ -98,7 +98,7 @@ int main() {
 
 ```
 #### 知识拓展
-![image](https://file1.kamacoder.com/i/bagu/1.png)
+![image](https://file1.kamacoder.com/i/bagu/202507241.png)
 
 
 - 知识图解

@@ -75,7 +75,7 @@ int main() {
 ```
 #### 知识拓展
 - 知识图解
-  ![image](https://file1.kamacoder.com/i/bagu/2.png)
+  ![image](https://file1.kamacoder.com/i/bagu/202507151.png)
 
   
 
@@ -83,7 +83,7 @@ int main() {
 
 Derived：是C++继承体系中的术语，指通过派生（derivation）从基类（Base class）创建的新类
 
-![image](https://file1.kamacoder.com/i/bagu/2 (1).png)
+![image](https://file1.kamacoder.com/i/bagu/202507152.png.png)
 
 - 拓展
 **虚函数表(VTable)工作原理**：

@@ -31,7 +31,7 @@ free(obj);        // 不会调用析构函数
 
 #### 知识拓展
 - 知识图解
-![image](https://file1.kamacoder.com/i/bagu/c++7.png)
+![image](https://file1.kamacoder.com/i/bagu/202507081.png)
 
 
 - 什么时候用？

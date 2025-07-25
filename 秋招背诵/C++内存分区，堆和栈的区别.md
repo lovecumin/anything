@@ -78,7 +78,7 @@ int main() {
 
 #### 知识拓展
 - 内存图解
-![image](https://file1.kamacoder.com/i/bagu/1.png)
+![image](https://file1.kamacoder.com/i/bagu/202507111.png)
 
 - 栈和堆的线程安全
 

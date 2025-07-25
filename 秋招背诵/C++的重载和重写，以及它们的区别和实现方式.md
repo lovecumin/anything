@@ -69,7 +69,7 @@ a->speak();  // 输出：狗在叫：汪汪汪
 #### 知识拓展
 
 - 知识图解
-![image](https://file1.kamacoder.com/i/bagu/1.jpg)
+![image](https://file1.kamacoder.com/i/bagu/202507131.jpg)
 
 - 什么是虚函数
 
