@@ -2,7 +2,7 @@
 
 ## C++基础 
 
-[1、静态变量](./baguc++-problems/静态局部变量，全局变量，局部变量的特点，以及使用场景.md)  
+[1、静态变量](./bagu-CPP/problems/静态局部变量，全局变量，局部变量的特点，以及使用场景.md)  
 [2、指针和引用的区别](./problems/指针和引用的区别.md)  
 [3、static和const关键字的作用](./problems/static关键字和const关键字的作用.md)  
 [4、结构体和类的区别](./problems/结构体和类的区别.md)  
