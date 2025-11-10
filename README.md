@@ -6,7 +6,7 @@
 [2、指针和引用的区别](./bagu-CPP/problems/指针和引用的区别.md)  
 [3、static和const关键字的作用](./bagu-CPP/problems/static关键字和const关键字的作用.md)  
 [4、结构体和类的区别](./bagu-CPP/problems/结构体和类的区别.md)  
-[5、extern "C"的作用](./bagu-CPP/problems/extern%20C的作用.md)  
+[5、extern "C"的作用](./bagu-CPP/problems/externC的作用.md)  
 [6、volatile关键字的作用](./bagu-CPP/problems/volatile关键字的作用.md)  
 [7、inline函数 vs #define宏的区别与优劣](./bagu-CPP/problems/inline函数与宏的区别与优劣.md)  
 [8、C++中四种类型转换](./bagu-CPP/problems/C++中四种类型转换.md)  
@@ -20,7 +20,7 @@
 [4、delete和free的区别](./bagu-CPP/problems/free和delete区别的是什么？.md)  
 [5、什么是内存泄漏？什么是野指针？什么是内存越界？如何避免？](./bagu-CPP/problems/什么是内存泄漏？什么是野指针？什么是内存越界？如何避免？.md)  
 [6、C++内存分区，栈和堆的区别](./bagu-CPP/problems/C++内存分区，堆和栈的区别.md)  
-[7、placement new的作用](./bagu-CPP/problems/placement%20new的作用.md)  
+[7、placement new的作用](./bagu-CPP/problems/placement-new的作用.md)  
 [8、内存碎片的概念及栈溢出与堆溢出的区别](./bagu-CPP/problems/内存碎片与内存溢出.md)  
 [9、如何避免内存碎片](./bagu-CPP/problems/如何避免内存碎片.md)  
 
