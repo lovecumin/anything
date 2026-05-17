@@ -1,0 +1,181 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --primary: #C65A4A;
+  --background: #F7F2EC;
+  --secondary: #EAE3DB;
+  --light-secondary: #F1E8E0;
+  --highlight: #F8DCCF;
+  --muted: #D9D2CC;
+  --text: #6F655E;
+  --divider: #E5E0DA;
+}
+
+body {
+  font-family: 'Segoe UI', 'Microsoft YaHei', sans-serif;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: var(--background);
+  color: var(--text);
+  user-select: none;
+}
+
+.container {
+  text-align: center;
+  padding: 40px 30px;
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 32px;
+  letter-spacing: 2px;
+  color: var(--primary);
+}
+
+/* Mode Tabs */
+.mode-tabs {
+  display: inline-flex;
+  justify-content: center;
+  gap: 6px;
+  margin-bottom: 36px;
+  background: var(--secondary);
+  border-radius: 30px;
+  padding: 4px;
+}
+
+.mode-btn {
+  padding: 8px 22px;
+  border: none;
+  border-radius: 26px;
+  background: transparent;
+  color: var(--text);
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: all 0.25s;
+  font-family: inherit;
+}
+
+.mode-btn.active {
+  background: var(--primary);
+  color: #fff;
+}
+
+.mode-btn:not(.active):hover {
+  opacity: 0.7;
+}
+
+/* Timer Ring */
+.timer-ring {
+  position: relative;
+  width: 280px;
+  height: 280px;
+  margin: 0 auto 36px;
+}
+
+.timer-ring svg {
+  width: 100%;
+  height: 100%;
+  transform: rotate(-90deg);
+}
+
+.ring-bg {
+  fill: none;
+  stroke: var(--light-secondary);
+  stroke-width: 8;
+}
+
+.ring-progress {
+  fill: none;
+  stroke: var(--primary);
+  stroke-width: 8;
+  stroke-linecap: round;
+  stroke-dasharray: 565.48;
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 0.3s linear, stroke 0.4s;
+}
+
+.ring-progress.break-mode {
+  stroke: var(--muted);
+}
+
+.timer-display {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+}
+
+.time {
+  font-size: 3.5rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 2px;
+  color: var(--text);
+}
+
+.session-info {
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+/* Controls */
+.controls {
+  display: flex;
+  justify-content: center;
+  gap: 14px;
+}
+
+.btn {
+  padding: 12px 40px;
+  border: none;
+  border-radius: 30px;
+  font-size: 1.05rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+  font-family: inherit;
+  letter-spacing: 1px;
+}
+
+.btn:active {
+  transform: scale(0.95);
+}
+
+.btn-primary {
+  background: var(--primary);
+  color: #fff;
+}
+
+.btn-primary:hover {
+  filter: brightness(0.9);
+}
+
+.btn-primary.pause-state {
+  background: var(--highlight);
+  color: var(--text);
+}
+
+.btn-primary.pause-state:hover {
+  filter: brightness(0.93);
+}
+
+.btn-secondary {
+  background: transparent;
+  color: var(--text);
+  border: 2px solid var(--divider);
+}
+
+.btn-secondary:hover {
+  border-color: var(--muted);
+}
